@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Converts a JSON string to human-readable string
+ * Converts Contacts JSON string to human-readable string
  *
  * @param string $json
  * @return string
